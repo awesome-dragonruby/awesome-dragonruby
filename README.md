@@ -1,7 +1,16 @@
 # awesome-dragonruby
-A collection of awesome DragonRuby example apps, libraries, tools, frameworks, software and resources
 
-[DragonRuby](https://dragonruby.org)
+DragonRuby is a cross platform game development tool.
+
+<iframe width="500" height="281" src="https://www.youtube.com/embed/DYBRzglsEzU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+This list categorized community-driven collection of awesome [DragonRuby](https://dragonruby.org) example apps, libraries, tools, frameworks, software and resources.
+Sharing, suggestions and contributions are always welcome!
+
+Please take a look at the [contribution guidelines and quality standard](https://github.com/awesome-dragonruby/awesome-dragonruby/blob/master/CONTRIBUTING.md) first.
+
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
 
 ## Apps
 
