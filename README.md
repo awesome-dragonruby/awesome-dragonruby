@@ -1,6 +1,8 @@
 # Awesome DragonRuby
 
-DragonRuby is a cross platform game development tool.
+DragonRuby is toolchain that allows developers the ability to build apps and games using a programming language called Ruby. The managing members of DragonRuby are Ryan C. Gordon (creator of SDL), Amir Rajan (critically acclaimed indie game dev), and Aaron Lasseigne (author, presenter, and a powerhouse Ruby developer).
+
+![](./dragonruby-logo.png)
 
 See [a 5-minute intro to DragonRuby](https://www.youtube.com/embed/DYBRzglsEzU)
 
