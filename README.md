@@ -39,6 +39,7 @@ TODO
 ## Tutorials
 
 * [DragonRuby Game Toolkit Tutorial](http://dragonruby.school) by Lori M Olson
+* [Intro to DragonRuby Game Toolkit](https://www.youtube.com/watch?v=DYBRzglsEzU) by Ryan C Gordon
 
 ## Other Resources
 
