@@ -43,6 +43,7 @@ TODO
 ## Other Resources
 
 * [dragon-ruby-documenter](https://github.com/ediathome/dragon-ruby-documenter) - This small app dumps a basic DragonRuby documentation to a Markdown file.
+* [power-overwhelming](https://github.com/amirrajan/power-overwhelming) - A github repo used by Amir Rajan for his presentation at RubyKaigi 2019.
 
 ## Community Resources
 * [@rubymotion on Twitter](https://twitter.com/rubymotion)
