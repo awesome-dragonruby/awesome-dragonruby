@@ -1,4 +1,4 @@
-# awesome-dragonruby
+# Awesome DragonRuby
 
 DragonRuby is a cross platform game development tool.
 
