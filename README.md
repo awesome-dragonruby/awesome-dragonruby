@@ -2,9 +2,7 @@
 
 DragonRuby is a cross platform game development tool.
 
-<div>
-<iframe width="500" height="281" src="https://www.youtube.com/embed/DYBRzglsEzU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+See [a 5-minute intro to DragonRuby](https://www.youtube.com/embed/DYBRzglsEzU)
 
 This list categorized community-driven collection of awesome [DragonRuby](https://dragonruby.org) example apps, libraries, tools, frameworks, software and resources.
 Sharing, suggestions and contributions are always welcome!
