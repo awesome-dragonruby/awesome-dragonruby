@@ -3,11 +3,19 @@ A collection of awesome DragonRuby example apps, libraries, tools, frameworks, s
 
 [DragonRuby](https://dragonruby.org)
 
+## Apps
+
+TODO
+
 ## Developer Tools
 
 * [DragonRuby Game Toolkit](https://dragonruby.itch.io/dragonruby-gtk)
 
-## Resources
+## Tutorials
+
+* [DragonRuby Game Toolkit Tutorial](https://dragonruby.school) by Lori M Olson
+
+## Other Resources
 
 * [dragon-ruby-documenter](https://github.com/ediathome/dragon-ruby-documenter) - This small app dumps a basic DragonRuby documentation to a Markdown file.
 
