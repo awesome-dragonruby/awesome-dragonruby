@@ -36,9 +36,18 @@ TODO
 
 ## Libraries, Frameworks and Wrappers
 
-## Tutorials
+## Documents & Tutorials & Videos
+
+### Documents
+
+* [DragonRubyObjectMethods](https://vtlearn.de/site/dragonruby/)
+
+### Courses
 
 * [DragonRuby Game Toolkit Tutorial](http://dragonruby.school) by Lori M Olson
+
+### Videos
+
 * [Intro to DragonRuby Game Toolkit](https://www.youtube.com/watch?v=DYBRzglsEzU) by Ryan C Gordon
 
 ## Other Resources
