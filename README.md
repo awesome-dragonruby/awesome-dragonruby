@@ -20,9 +20,9 @@ Please take a look at the [contribution guidelines and quality standard](https:/
   - [Apps](#apps)
   - [Developer Tools](#developer-tools)
   - [Libraries, Frameworks and Wrappers](#libraries-frameworks-and-wrappers)
-  - [Tutorials](#tutorials)
-  - [Presentations](#presentations)
-  - [Resources](#resources)
+  - [Documents & Tutorials & Presentations & Videos](#documents--tutorials--presentations--videos)
+    - [Presentations](#presentations)
+  - [Resources](#other-resources)
   - [Thanks](#thanks)
 
 
@@ -36,7 +36,7 @@ TODO
 
 ## Libraries, Frameworks and Wrappers
 
-## Documents & Tutorials & Videos
+## Documents & Tutorials & Presentations & Videos
 
 ### Documents
 
@@ -46,14 +46,19 @@ TODO
 
 * [DragonRuby Game Toolkit Tutorial](http://dragonruby.school) by Lori M Olson
 
+### Presentations
+
+* [power-overwhelming](https://github.com/amirrajan/power-overwhelming) - A github repo used by Amir Rajan for his presentation at RubyKaigi 2019.
+
 ### Videos
 
 * [Intro to DragonRuby Game Toolkit](https://www.youtube.com/watch?v=DYBRzglsEzU) by Ryan C Gordon
 
+
 ## Other Resources
 
 * [dragon-ruby-documenter](https://github.com/ediathome/dragon-ruby-documenter) - This small app dumps a basic DragonRuby documentation to a Markdown file.
-* [power-overwhelming](https://github.com/amirrajan/power-overwhelming) - A github repo used by Amir Rajan for his presentation at RubyKaigi 2019.
+
 
 ## Community Resources
 * [@rubymotion on Twitter](https://twitter.com/rubymotion)
