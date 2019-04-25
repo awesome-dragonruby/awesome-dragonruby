@@ -79,3 +79,5 @@ Thanks to all [contributors](https://github.com/awesome-dragonruby/awesome-drago
 # Other Awesome Lists
 
 Other amazingly awesome lists can be found in the [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) list.
+
+[![Stargazers over time](https://starchart.cc/awesome-dragonruby/awesome-dragonruby.svg)](https://starchart.cc/awesome-dragonruby/awesome-dragonruby)
