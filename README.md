@@ -48,7 +48,7 @@ TODO
 
 ### Presentations
 
-* [power-overwhelming](https://github.com/amirrajan/power-overwhelming) - A github repo used by Amir Rajan for his presentation at RubyKaigi 2019.
+* <s>[power-overwhelming](https://github.com/amirrajan/power-overwhelming) - A github repo used by Amir Rajan for his presentation at RubyKaigi 2019.</s>
 
 ### Videos
 
