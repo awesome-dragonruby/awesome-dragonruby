@@ -18,7 +18,7 @@ Please take a look at the [contribution guidelines and quality standard](https:/
 ## Contents
 
   - [Apps](#apps)
-    -[Games](#games)
+    - [Games](#games)
   - [Developer Tools](#developer-tools)
   - [Libraries, Frameworks and Wrappers](#libraries-frameworks-and-wrappers)
   - [Documents & Tutorials & Presentations & Videos](#documents--tutorials--presentations--videos)
