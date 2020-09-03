@@ -35,6 +35,7 @@ Please take a look at the [contribution guidelines and quality standard](https:/
 ### Games
 
 * [Flappy Dragon](https://dragonruby.itch.io/flappydragon) ([source](https://gist.github.com/rcgordon/a2a3957405d894e348f40370704c6990)) - A simple Flappy Bird clone
+* [Games made with DragonRuby on itch.io](https://itch.io/games/tag-dragonruby)
 
 ## Developer Tools
 
