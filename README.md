@@ -62,6 +62,10 @@ Please take a look at the [contribution guidelines and quality standard](https:/
 
 * [Intro to DragonRuby Game Toolkit](https://www.youtube.com/watch?v=DYBRzglsEzU) by Ryan C Gordon
 
+### Written Tutorials
+
+* [Roguelike Tutorial](https://github.com/Craggar/dragonruby_tutorials) by [Craggar](https://github.com/Craggar)
+ 
 
 ## Other Resources
 
