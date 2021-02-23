@@ -48,7 +48,7 @@ Please take a look at the [contribution guidelines and quality standard](https:/
 ### Documents
 
 * [DragonRubyObjectMethods](https://vtlearn.de/site/dragonruby/)
-* [DragonRuby API Documentation](https://pusewicz.github.io/dragon-ruby-gtk-docs/index.html)
+* [DragonRuby API Documentation](https://dragonruby-docs.readthedocs.io/en/latest/)
 
 ### Courses
 
