@@ -46,6 +46,7 @@ Please take a look at the [contribution guidelines and quality standard](https:/
 * [Zif](https://github.com/danhealy/dragonruby-zif) - A Drop-in Framework for DragonRuby Game Toolkit.
 * [Draco](https://github.com/guitsaru/draco) - An Entity Component System for DragonRuby GTK
 * [Smaug](https://smaug.dev/) - Installation and package manager for DragonRuby
+* [LDtkBridge](https://github.com/LittleB0xes/LDtkBridge) - A bridge between LDtk (level editor) and DragonRuby
 
 ## Documents & Tutorials & Presentations & Videos
 
