@@ -9,8 +9,6 @@ See [a 5-minute intro to DragonRuby](https://www.youtube.com/embed/DYBRzglsEzU)
 This list is a categorized community-driven collection of awesome [DragonRuby GTK](https://dragonruby.org/toolkit/game) example apps, libraries, tools, frameworks, software and resources.
 Sharing, suggestions and contributions are always welcome!
 
-Please take a look at the [contribution guidelines and quality standard](./CONTRIBUTING.md) first.
-
 ## Contents
 
   - [Games](#games)
@@ -20,7 +18,7 @@ Please take a look at the [contribution guidelines and quality standard](./CONTR
   - [Documents & Tutorials & Presentations & Videos](#documents--tutorials--presentations--videos)
     - [Presentations](#presentations)
   - [Resources](#other-resources)
-  - [Thanks](#thanks)
+  - [Contributing](#contributing)
 
 
 ## Games
@@ -78,11 +76,16 @@ Please take a look at the [contribution guidelines and quality standard](./CONTR
 * [Forum on itch.io](https://dragonruby.itch.io/dragonruby-gtk/community)
 * [Stack Overflow](https://stackoverflow.com/questions/tagged/dragonruby)
 
+
+## Contributing
+
+Please take a look at the [contribution guidelines and quality standard](./CONTRIBUTING.md) first.
+
+Thanks to all [contributors](https://github.com/DragonRuby-community/awesome-dragonruby/graphs/contributors), you're awesome and wouldn't be possible without you!
+
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 
-## Thanks
 
-Thanks to all [contributors](https://github.com/DragonRuby-community/awesome-dragonruby/graphs/contributors), you're awesome and wouldn't be possible without you!
