@@ -86,5 +86,3 @@ Please take a look at the [contribution guidelines and quality standard](./CONTR
 ## Thanks
 
 Thanks to all [contributors](https://github.com/DragonRuby-community/awesome-dragonruby/graphs/contributors), you're awesome and wouldn't be possible without you!
-
-[![Stargazers over time](https://starchart.cc/awesome-dragonruby/awesome-dragonruby.svg)](https://starchart.cc/awesome-dragonruby/awesome-dragonruby)
