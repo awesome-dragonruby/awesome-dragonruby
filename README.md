@@ -9,7 +9,7 @@ See [a 5-minute intro to DragonRuby](https://www.youtube.com/embed/DYBRzglsEzU)
 This list is a categorized community-driven collection of awesome [DragonRuby GTK](https://dragonruby.org/toolkit/game) example apps, libraries, tools, frameworks, software and resources.
 Sharing, suggestions and contributions are always welcome!
 
-Please take a look at the [contribution guidelines and quality standard](https://github.com/awesome-dragonruby/awesome-dragonruby/blob/master/CONTRIBUTING.md) first.
+Please take a look at the [contribution guidelines and quality standard](./CONTRIBUTING.md) first.
 
 ## Contents
 
@@ -85,6 +85,6 @@ Please take a look at the [contribution guidelines and quality standard](https:/
 
 ## Thanks
 
-Thanks to all [contributors](https://github.com/awesome-dragonruby/awesome-dragonruby/graphs/contributors), you're awesome and wouldn't be possible without you!
+Thanks to all [contributors](https://github.com/DragonRuby-community/awesome-dragonruby/graphs/contributors), you're awesome and wouldn't be possible without you!
 
 [![Stargazers over time](https://starchart.cc/awesome-dragonruby/awesome-dragonruby.svg)](https://starchart.cc/awesome-dragonruby/awesome-dragonruby)
