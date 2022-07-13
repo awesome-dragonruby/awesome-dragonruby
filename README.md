@@ -2,40 +2,36 @@
 
 ![](./dragonruby-logo.png)
 
-[DragonRuby](https://dragonruby.org) is toolchain that allows developers the ability to build apps and games using a programming language called Ruby.
-The managing members of DragonRuby are Ryan C. Gordon (creator of SDL), Amir Rajan (critically acclaimed indie game dev), and Aaron Lasseigne (author, presenter, and a powerhouse Ruby developer).
+[DragonRuby Game Toolkit](http://dragonruby.org/toolkit/game) DragonRuby Game Toolkit is a professional grade 2D game engine. It's tiny (~3.5MB), fast, and cross-platform (including consoles and mobile). The managing members of DragonRuby are Ryan C. Gordon (core contributor of SDL), Amir Rajan (critically acclaimed indie game dev), Aaron Lasseigne (author, presenter, and a powerhouse Ruby developer), and Alex Denisov (LLVM specialist).
 
 See [a 5-minute intro to DragonRuby](https://www.youtube.com/embed/DYBRzglsEzU)
 
-This list categorized community-driven collection of awesome [DragonRuby](https://dragonruby.org) example apps, libraries, tools, frameworks, software and resources.
+This list is a categorized community-driven collection of awesome [DragonRuby GTK](https://dragonruby.org/toolkit/game) example apps, libraries, tools, frameworks, software and resources.
 Sharing, suggestions and contributions are always welcome!
 
 Please take a look at the [contribution guidelines and quality standard](https://github.com/awesome-dragonruby/awesome-dragonruby/blob/master/CONTRIBUTING.md) first.
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-
-
 ## Contents
 
+  - [Games](#games)
   - [Apps](#apps)
-    - [Games](#games)
   - [Developer Tools](#developer-tools)
   - [Libraries, Frameworks and Wrappers](#libraries-frameworks-and-wrappers)
   - [Documents & Tutorials & Presentations & Videos](#documents--tutorials--presentations--videos)
     - [Presentations](#presentations)
   - [Resources](#other-resources)
   - [Thanks](#thanks)
+  
 
+## Games
+
+* [Games made with DragonRuby on itch.io](https://itch.io/games/tag-dragonruby)
+* [Itch Dragonruby Game Collection maintained by Akzidenz](https://itch.io/c/1043933/dragonruby)
 
 ## Apps
 
 * [chart-global-temp](https://github.com/jasemagee/chart-global-temp/) - A line chart showing global temperature written using DragonRuby
 * [dragon-ruby-documenter](https://github.com/ediathome/dragon-ruby-documenter) - This small app dumps a basic DragonRuby documentation to a Markdown file
-
-### Games
-
-* [Games made with DragonRuby on itch.io](https://itch.io/games/tag-dragonruby)
-* [Itch Dragonruby Game Collection maintained by Akzidenz](https://itch.io/c/1043933/dragonruby)
 
 ## Developer Tools
 
@@ -56,7 +52,7 @@ Please take a look at the [contribution guidelines and quality standard](https:/
 
 ### Courses
 
-* [DragonRuby Game Toolkit Tutorial](http://dragonruby.school) by Lori M Olson
+* [DragonRuby Game Toolkit Tutorial](http://dragonruby.school) by WNDX School
 
 ### Presentations
 
@@ -78,11 +74,9 @@ Please take a look at the [contribution guidelines and quality standard](https:/
 * [Open Game Art](https://opengameart.org)
 
 ## Community Resources
-* [@rubymotion on Twitter](https://twitter.com/rubymotion)
+* [DragonRuby Discord](http://discord.dragonruby.org)
 * [Forum on itch.io](https://dragonruby.itch.io/dragonruby-gtk/community)
 * [Stack Overflow](https://stackoverflow.com/questions/tagged/dragonruby)
-* [Slack](https://motioneers.slack.com)
-
 
 ## License
 
@@ -92,9 +86,5 @@ Please take a look at the [contribution guidelines and quality standard](https:/
 ## Thanks
 
 Thanks to all [contributors](https://github.com/awesome-dragonruby/awesome-dragonruby/graphs/contributors), you're awesome and wouldn't be possible without you!
-
-# Other Awesome Lists
-
-Other amazingly awesome lists can be found in the [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) list.
 
 [![Stargazers over time](https://starchart.cc/awesome-dragonruby/awesome-dragonruby.svg)](https://starchart.cc/awesome-dragonruby/awesome-dragonruby)
