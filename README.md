@@ -21,7 +21,7 @@ Please take a look at the [contribution guidelines and quality standard](./CONTR
     - [Presentations](#presentations)
   - [Resources](#other-resources)
   - [Thanks](#thanks)
-  
+
 
 ## Games
 
@@ -65,7 +65,7 @@ Please take a look at the [contribution guidelines and quality standard](./CONTR
 ### Written Tutorials
 
 * [Roguelike Tutorial](https://github.com/Craggar/dragonruby_tutorials) by [Craggar](https://github.com/Craggar)
- 
+
 
 ## Other Resources
 
