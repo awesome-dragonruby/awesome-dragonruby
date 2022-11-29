@@ -81,7 +81,7 @@ Sharing, suggestions and contributions are always welcome!
 
 Please take a look at the [contribution guidelines and quality standard](./CONTRIBUTING.md) first.
 
-Thanks to all [contributors](https://github.com/DragonRuby-community/awesome-dragonruby/graphs/contributors), you're awesome and this wouldn't be possible without you!
+Thanks to all [contributors](./graphs/contributors), you're awesome and this wouldn't be possible without you!
 
 ## License
 
