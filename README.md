@@ -64,7 +64,6 @@ Sharing, suggestions and contributions are always welcome!
 
 * [Roguelike Tutorial](https://github.com/Craggar/dragonruby_tutorials) by [Craggar](https://github.com/Craggar)
 
-
 ## Other Resources
 
 ### Game Development
@@ -72,20 +71,17 @@ Sharing, suggestions and contributions are always welcome!
 * [Open Game Art](https://opengameart.org)
 
 ## Community Resources
+
 * [DragonRuby Discord](http://discord.dragonruby.org)
 * [Forum on itch.io](https://dragonruby.itch.io/dragonruby-gtk/community)
 * [Stack Overflow](https://stackoverflow.com/questions/tagged/dragonruby)
 
-
 ## Contributing
 
-Please take a look at the [contribution guidelines and quality standard](./CONTRIBUTING.md) first.
+Please take a look at the [contribution guidelines and quality standard](https://github.com/DragonRidersUnite/awesome-dragonruby/blob/master/CONTRIBUTING.md) first.
 
-Thanks to all [contributors](../../graphs/contributors), you're awesome and this wouldn't be possible without you!
+Thanks to all [contributors](https://github.com/DragonRidersUnite/awesome-dragonruby/graphs/contributors), you're awesome and this wouldn't be possible without you!
 
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-
-
