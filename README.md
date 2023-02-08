@@ -22,8 +22,9 @@ Sharing, suggestions and contributions are always welcome!
 ## Games
 
 * [DragonOS](https://dragonridersunite.itch.io/dragon-os) - Interactive showcase of open source games made with DragonRuby GTK
-* [Games made with DragonRuby on itch.io](https://itch.io/games/tag-dragonruby)
-* [Itch Dragonruby Game Collection maintained by Akzidenz](https://itch.io/c/1043933/dragonruby)
+* [DragonRuby Collection](https://itch.io/c/1043933/dragonruby) - A collection of all known DragonRuby games on itch.io, maintained by Akzidenz.
+* [DragonRuby Treasure](https://itch.io/c/2785336/dragonruby-treasure) - A curated collection of DragonRuby games on itch.io, maintained by Akzidenz.
+* [Tagged with DragonRuby on itch.io](https://itch.io/games/tag-dragonruby) - Games on itch.io tagged 'dragonruby' by their creators.
 
 * Open source games
   * [Engine samples](https://github.com/DragonRuby/dragonruby-game-toolkit-contrib/tree/master/samples)
