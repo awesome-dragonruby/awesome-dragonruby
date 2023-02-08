@@ -35,8 +35,8 @@ Please take a look at the [contribution guidelines and quality standard](https:/
 ### Games
 
 * [Flappy Dragon](https://dragonruby.itch.io/flappydragon) ([source](https://gist.github.com/rcgordon/a2a3957405d894e348f40370704c6990)) - A simple Flappy Bird clone
-* [DragonRuby Collection: all known DragonRuby games on itch.io](https://itch.io/c/1043933/dragonruby)
-* [DragonRuby Treasure: a curated collection of DragonRuby games](https://itch.io/c/2785336/dragonruby-treasure)
+* [DragonRuby Collection](https://itch.io/c/1043933/dragonruby) - All known DragonRuby games on itch.io
+* [DragonRuby Treasure](https://itch.io/c/2785336/dragonruby-treasure) - A curated collection of DragonRuby games
 * [Games tagged with DragonRuby on itch.io](https://itch.io/games/tag-dragonruby)
 
 ## Developer Tools
