@@ -42,6 +42,7 @@ Sharing, suggestions and contributions are always welcome!
 ## Developer Tools
 
 * [DragonRuby Game Toolkit](https://dragonruby.itch.io/dragonruby-gtk)
+* [Palantir](https://kfischer-okarin.itch.io/palantir) - A DragonRuby Game Toolkit state inspector by kfischer_okarin
 
 ## Libraries, Frameworks and Wrappers
 
