@@ -34,8 +34,8 @@ Please take a look at the [contribution guidelines and quality standard](https:/
 
 ### Games
 
-* [Flappy Dragon](https://dragonruby.itch.io/flappydragon) ([source](https://gist.github.com/rcgordon/a2a3957405d894e348f40370704c6990)) - A simple Flappy Bird clone
 * [Games made with DragonRuby on itch.io](https://itch.io/games/tag-dragonruby)
+* [Itch Dragonruby Game Collection maintained by Akzidenz](https://itch.io/c/1043933/dragonruby)
 
 ## Developer Tools
 
@@ -44,13 +44,15 @@ Please take a look at the [contribution guidelines and quality standard](https:/
 ## Libraries, Frameworks and Wrappers
 
 * [Zif](https://github.com/danhealy/dragonruby-zif) - A Drop-in Framework for DragonRuby Game Toolkit.
+* [Draco](https://github.com/guitsaru/draco) - An Entity Component System for DragonRuby GTK
+* [Smaug](https://smaug.dev/) - Installation and package manager for DragonRuby
+* [LDtkBridge](https://github.com/LittleB0xes/LDtkBridge) - A bridge between LDtk (level editor) and DragonRuby
 
 ## Documents & Tutorials & Presentations & Videos
 
 ### Documents
 
-* [DragonRubyObjectMethods](https://vtlearn.de/site/dragonruby/)
-* [DragonRuby API Documentation](https://dragonruby-docs.readthedocs.io/en/latest/)
+* [Ruby for Dragons](https://ejectdrive.com/Ruby_for_Dragons/) - Alternative community supported wiki
 
 ### Courses
 
