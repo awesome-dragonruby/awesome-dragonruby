@@ -59,6 +59,7 @@ _All samples in this section must link to freely available source code with an [
 * [LDtkBridge](https://github.com/LittleB0xes/LDtkBridge) - A bridge between LDtk (level editor) and DragonRuby
 * [Scale](https://github.com/DragonRidersUnite/scale) - Lightweight starter template with common helpers
 * [Smaug](https://smaug.dev/) - Installation and package manager for DragonRuby
+* [Wave Function Collapse](https://github.com/pusewicz/wave-function-collapse-dragonruby) - An implementation of the tiled [Wave Function Collapse](https://en.wikipedia.org/wiki/Wave_function_collapse) algorithm in DragonRuby
 * [Zif](https://github.com/danhealy/dragonruby-zif) - A Drop-in Framework for DragonRuby Game Toolkit
 
 ## Documents & Tutorials & Presentations & Videos
