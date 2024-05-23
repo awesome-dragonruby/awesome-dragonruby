@@ -11,6 +11,7 @@ Sharing, suggestions and contributions are always welcome!
 
 ## Contents
 
+  - [Samples](#samples)
   - [Games](#games)
   - [Apps](#apps)
   - [Developer Tools](#developer-tools)
@@ -18,6 +19,13 @@ Sharing, suggestions and contributions are always welcome!
   - [Documents & Tutorials & Presentations & Videos](#documents--tutorials--presentations--videos)
   - [Resources](#other-resources)
   - [Contributing](#contributing)
+
+## Samples
+_All samples in this section must link to freely available source code with an [open source license](https://choosealicense.com/)._
+
+* [DragonRuby Samples Site](https://samples.dragonruby.org) - A showcase of code samples and complete games provided by DragonRuby, along with video recordings and live, in-browser samples.
+* [DragonRuby Documentation](https://docs.dragonruby.org) - DragonRuby documentation contains code for all the samples that ship with DragonRuby.
+
 
 ## Games
 
