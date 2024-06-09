@@ -7,6 +7,7 @@
 * Keep descriptions concise, clear and simple, and end them with a period / stop.
 * New categories, or improvements to the existing ones are also welcome.
 * Make sure your text editor is set to remove trailing whitespace.
+* Sort the items in each section alphabetically.
 
 ## Quality standard
 
@@ -18,4 +19,4 @@ To stay on the list, projects should follow these quality standards:
 * Documented.
 * Tests.
 
-Thanks to all [contributors](https://github.com/awesome-dragonruby/awesome-dragonruby/graphs/contributors), you're awesome and wouldn't be possible without you!
+Thanks to all [contributors](https://github.com/DragonRidersUnite/awesome-dragonruby/graphs/contributors), you're awesome and wouldn't be possible without you!
